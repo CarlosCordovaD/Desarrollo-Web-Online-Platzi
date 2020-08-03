@@ -1,0 +1,71 @@
+/* gris oscuro = #1d252 */
+/* girs claro = #626262 */
+/* Background gris = #1b2127 */
+/* Celeste = #026fff */
+*{
+    margin: 0;
+    padding: 0;
+}
+a,li{
+    text-decoration: none;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+header{
+    background-color: #202020 ;
+    color: white;
+}
+header a{
+    color: white;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+h1{
+    line-height: 1.5em;
+    font-size: 40px;
+    letter-spacing: -.2px;
+    text-transform: uppercase;
+    text-decoration: dashed;
+    color: white;
+}
+h1 span{
+    color: #026fff;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.portafolio{   
+    background-color: #cccccc;
+}
+.project{
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin:15px 0;
+    padding: 20px;
+    background-color: white;
+}
+.project-details{
+    width: 50%;
+}
+.project-imageContainer{
+    width: 50%;
+}
+.hero{
+    height: 300px;
+    background-image: url(../images/yo.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-color: #1b2127;
+}
+
