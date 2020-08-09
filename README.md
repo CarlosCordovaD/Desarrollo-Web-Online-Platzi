@@ -1,2 +1,3 @@
-# Portafolio_Prueba
-portafolio prueba Platzi
+# Desarrollo Web Online
+Curso de Platzi 
+Prof. Leonidas Esteban
